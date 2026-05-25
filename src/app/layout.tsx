@@ -56,6 +56,9 @@ export const metadata: Metadata = {
     title: "Nishant Rankawat | Full Stack Developer & System Builder",
     description: "Building scalable web applications, high-performance systems, and digital experiences.",
   },
+  verification: {
+    google: "25S5TOHJbSypGo4HMXfG7UiE8QAAz9HumPv95yglDt8",
+  },
 };
 
 const jsonLd = {
