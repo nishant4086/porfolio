@@ -13,7 +13,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://nishantrankawat.dev"),
+  metadataBase: new URL("https://nishantrankawat.vercel.app"),
   title: "Nishant Rankawat | Full Stack Developer & System Builder",
   description: "Building scalable web applications, high-performance systems, and digital experiences.",
   keywords: [
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Nishant Rankawat | Full Stack Developer & System Builder",
     description: "Building scalable web applications, high-performance systems, and digital experiences.",
-    url: "https://nishantrankawat.dev",
+    url: "https://nishantrankawat.vercel.app",
     siteName: "Nishant Rankawat Portfolio",
     type: "website",
     locale: "en_US",
@@ -62,7 +62,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Nishant Rankawat",
-  "url": "https://nishantrankawat.dev",
+  "url": "https://nishantrankawat.vercel.app",
   "jobTitle": "Full Stack Developer & System Builder",
   "sameAs": [
     "https://github.com/nishant4086"
